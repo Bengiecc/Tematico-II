@@ -1,0 +1,81 @@
+#imagen1{
+    border: 1px solid rgb(109, 170, 132);
+    border-radius: 4px;
+    padding: 5px;
+    width: 140px;
+    height: 180px;
+}
+#imagen2{
+    border: 1px solid rgb(109, 170, 132);
+    border-radius: 4px;
+    padding: 5px;
+    width: 140px;
+    height: 180px;
+}
+#img1{
+    border: 1px solid rgb(109, 170, 132);
+    border-radius: 4px;
+    padding: 5px;
+    width: 140px;
+    height: 180px;
+}
+
+#img2{
+    border: 1px solid rgb(109, 170, 132);
+    border-radius: 4px;
+    padding: 5px;
+    width: 140px;
+    height: 180px;
+}
+#modi{
+    border: 1px solid rgb(109, 170, 132);
+    border-radius: 4px;
+    padding: 5px;
+    width: 140px;
+    height: 180px;
+}
+#resultado{
+    display: block;
+    border: 1px solid rgb(109, 170, 132);
+    border-radius: 4px;
+    padding: 5px;
+    width: 120px;
+    height: 160px;
+}
+
+
+
+#head{
+    position: relative;
+    margin: 5vh auto;
+    width: 140px;
+    height:5000px;
+}
+
+#principal{
+	height:60px;
+	width:80px;
+	padding:5px;
+	border-style:solid;
+}
+
+#teoria{
+	height:60px;
+	width:80px;
+	padding:5px;
+	border-style:solid;
+}
+
+#estilo{
+    position: relative;
+	height:600px;
+	width:800px;
+	padding:5px;
+    border-style:solid;
+    top: 250px;
+    left: 600px;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+}
+
+
